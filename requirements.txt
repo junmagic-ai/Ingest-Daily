@@ -1,0 +1,17 @@
+beautifulsoup4==4.12.2
+gkeepapi==0.15.0
+google_api_python_client==2.108.0
+google_auth_oauthlib==1.1.0
+langchain==0.0.340
+openai==0.27.6
+pydub==0.25.1
+python-dotenv==1.0.0
+Requests==2.31.0
+youtube_transcript_api==0.5.0
+yt_dlp==2023.11.16
+protobuf==4.25.0
+torch==2.1.0
+transformers
+accelerate
+datasets[audio]
+optimum
